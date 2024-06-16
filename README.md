@@ -7,7 +7,7 @@ Landing pages can be used to Grow your Email List, Sales Of Product or Services.
 # This project is about simple and basic Netflix landing pagesn using HTML,CSS and Media query (To make the Website responsive). In this project Email is used for registration the of Netflix.
 
 # How To Use Code:
-Extract the Zip File Run only the landing file. Before Running landing file   Install the VScode for running the code and download the images(body and netflix).
+Extract the Zip File Run only the landing.html file. Before Running landing.html file Install the VScode for running the code and download the images(body.jpg and netflix.png).
 
 ![image](https://github.com/prerna24122/OCTANET_JUNE/assets/168319965/bd6201c1-9891-4a3a-b411-3985cbac1704)
 

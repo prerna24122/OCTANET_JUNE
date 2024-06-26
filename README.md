@@ -1,4 +1,4 @@
-# OCTANET_JUNE
+# OCTANET_JUNE(Task 1)
 It is a Basic landing page using HTML, CSS, and Media query.
 Landing page:A landing page is a webpage designed to persuade users to take a specific action. For example, signing up for a newsletter, purchasing a product, or registering for an event.It is a single webpage which focus around call to action. It is designed to a specific marketting goal and the landing does not have any distraction.
 Landing pages can be used to Grow your Email List, Sales Of Product or Services.

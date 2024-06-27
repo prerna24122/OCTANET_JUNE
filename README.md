@@ -4,7 +4,7 @@ Landing page:A landing page is a webpage designed to persuade users to take a sp
 Landing pages can be used to Grow your Email List, Sales Of Product or Services.
 
 
-# This project is about simple and basic Netflix landing pagesn using HTML,CSS and Media query (To make the Website responsive). In this project Email is used for registration the of Netflix.
+# This project is about simple and basic Netflix landing pages using HTML,CSS and Media query (To make the Website responsive). In this project Email is used for registration the of Netflix.
 
 # How To Use Code:
 Extract the Zip File Run only the landing.html file. Before Running landing.html file Install the VScode for running the code and download the images(body.jpg and netflix.png).
